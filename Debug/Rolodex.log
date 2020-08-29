@@ -1,0 +1,7 @@
+﻿  Rolodex.cpp
+C:\Users\Eva\source\repos\Rolodex\Rolodex.cpp(98,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Eva\source\repos\Rolodex\Rolodex.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Eva\source\repos\Rolodex\Rolodex.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Eva\source\repos\Rolodex\Rolodex.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Eva\source\repos\Rolodex\Rolodex.cpp(146,20): warning C4018: '<': signed/unsigned mismatch
+  Rolodex.vcxproj -> C:\Users\Eva\source\repos\Rolodex\Debug\Rolodex.exe

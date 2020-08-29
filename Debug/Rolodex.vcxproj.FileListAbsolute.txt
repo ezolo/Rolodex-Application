@@ -1,0 +1,2 @@
+C:\Users\Eva\source\repos\Rolodex\Debug\Rolodex.exe
+C:\Users\Eva\source\repos\Rolodex\Debug\Rolodex.pdb
