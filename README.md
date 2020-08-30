@@ -14,7 +14,8 @@
 ## 👩‍🏫 Application Walk Through
 ### 1️⃣ Adding Entry ###
 > First, users will be able to make as many entries as they can. When a user makes an entry, they are prompted to add a name, address, zip code, phone number, and email. 
-![](https://i.imgur.com/n9WIBNP.png)
+>
+>![](https://i.imgur.com/n9WIBNP.png)
 
 
 ### 2️⃣ Editing an Entry ###
